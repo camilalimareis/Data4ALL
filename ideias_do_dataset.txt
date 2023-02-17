@@ -8,5 +8,27 @@ genero de pessoas
 homens ou mulheres procurarm mais o médico? quais consultas os homens procuram mais, e as mulheres?
 
 a quantidade de não comparecimentos é grande entre os pacientes com bolsa família?
+ 
+a quantidade de pessoas não escolarizadas que tem as doenças é maior que as escolarizadas? 
+
+Porque eles não compareceram?
+
+As idades do paciente de cada doença
+
+qual bairro com maior consulta?
+
+sms não enviado = não tem celular ?
+
+Fazer um projeto ou um médico itinerante para suprir a demanda
+pessoas deficientes, com comorbidades ou doenças relacionadas
 
 
+
+MCAgit pulR do dataset :
+12  SMS_received    110573 non-null  int64  
+
+AppointmentDay tá meio errado né....
+
+ver se o bairrro são longe um do outro
+
+ver se a consulta ser uma data mto longe

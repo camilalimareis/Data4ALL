@@ -1,0 +1,20 @@
+Deficientes e não comparecimento:
+
+Nesta pesquisa temos 2242 deficientes, destes 968 marcaram consulta para hipertensão (804 c , 164 n), 399 diabetes (340 c , 59 n) e 78 Alcoolismo (68 c , 10 n). 
+SMS enviados para deficientes foram 536, dos que receberam o SMS
+no grupo de alcólatras : 86% compareceu
+no grupo de diabeticos : 78% compareceu
+no grupo de hipertensos: 76% compareceu
+
+dos que não receberam o SMS
+no grupo de alcolatras: 93% compareceu
+no grupo de diabéticos: 73% compareceu
+no grupo de hipertensos: 69% compareceu
+
+
+Das consultas para deficientes
+
+as marcadas em menos de 1 mes tiveram 
+as marcadas em menos de 6 meses tiveram 
+as marcadas em menos de 1 ano tiveram 
+as marcadas em mais de 1 ano tiveram
